@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Car Advisor</string>
+    <string name="find_car">Find Car!</string>
+    <string-array name="car_types">
+        <item>Electric Car</item>
+        <item>Truck</item>
+        <item>Sport Car</item>
+        <item>SUV</item></string-array>
+</resources>
